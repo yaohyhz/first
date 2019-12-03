@@ -1,6 +1,4 @@
 Git is a version control system.
-Git is free software.hh
-
+Git is free software
 chang
-
 gitchange
